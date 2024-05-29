@@ -1,0 +1,6 @@
+Today I created a desktop icon for Android studio. I spent a good 45 minutes trying
+to do it from the terminal before clicking a button on the app to make it.
+I ended up with the Android studio folder on my Desktop and I'm unsure how
+to get rid of it. 
+I also updated some dependencies for the company's flutter app, which didn't
+take too long.

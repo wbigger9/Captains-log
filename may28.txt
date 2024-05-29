@@ -1,0 +1,6 @@
+Today I further developed my terminal skills. I'm starting to get the hang of it. At home I have a Macbook so it's
+really convenient to practice whenever I want. I learned how to open Nano (not a Vim fan) and write my journal entries
+on it. I learned a how to move a file from one directory to another using the terminal. I learned that Desktop isn't 
+the root folder for a computer (makes sense why VS Code couldn't update when I had it saved to Desktop).
+
+It's almost time for lunch but after I eat I'm gonna learn how to use ADB and rip an app off of the work Android tablet.
