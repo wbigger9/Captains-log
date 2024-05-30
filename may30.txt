@@ -1,0 +1,4 @@
+Today I worked on helping my coworker get the flutter sdk running. We decided
+to scrap the old app and make the new one backwards compatible.
+Ben and I worked together to correct some pixel overflows on the UI. We changed
+the height of some buttons to accomplish this.
