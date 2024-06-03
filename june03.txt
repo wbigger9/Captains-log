@@ -1,0 +1,5 @@
+Today I tried to fix an issue with the bridge. We discontinued service for
+the old app so we need to integrate legacy devices with the new app.
+There is an ongoing problem where devices connected to the bridge don't
+appear in the devices page. We are unsure of how to fix it but I am sure
+we will figure it out this wee as it seems like a relatively small bug.
