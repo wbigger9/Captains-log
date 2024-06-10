@@ -1,12 +1,18 @@
 It's been awhile since I updated this. Over the past few days we spent some
 time adding functionality to the app. We added a slider to umbrellas which
 allows users to control the brightness on optional light fixtures at the
-base. This involved adding the slider, making sure it called the database, 
+base. This involved adding the slider, making sure it called the database,
 and resizing the card appropriately. We needed to conditionally size device
-tiles, making umbrella tiles larger than drapery tiles. 
+tiles, making umbrella tiles larger than drapery tiles.
 
 Another project we are working on is making the app cross-compatible with
 legacy zigbee devices. Zigbee devices utilize a bridge. Currently the app
 is not cross-compatible as bridges do not appear on the device page. We need
 both bridges and devices connected to the bridge to appear on the device
 page.
+
+Now we need to fix a bug where favorites are removed when the page refreshes,
+and the light settings reset to a default value after the refresh.
+
+
+
