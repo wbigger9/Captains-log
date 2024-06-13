@@ -1,0 +1,9 @@
+We succesfully completed most of the functionality of the app. The main thing
+we had been working on was cross-compatibility. There was an older app
+built using React Native, and we needed devices onboarded on the old app
+to automatically appear in the new one. We were succesful and devices now
+appear. 
+
+Now I've moved to the server. I am currently trying to figure out how the app
+talks to the server, as well as refresh and update my knowledge on serverside
+programming in general.
