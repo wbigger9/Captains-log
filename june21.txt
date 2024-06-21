@@ -1,0 +1,3 @@
+This week I did several things including updating the login page and added a logging framework.
+There was a bug creating an infinite loop when the user entered the wrong password while logging in.
+I also added a logging framework and began replacing print statements with logger.level. 
