@@ -1,0 +1,15 @@
+Today I took some time trying to get an older Typescript project to compile. 
+The project is meant to take the bridge log files and download them to a
+text file. It runs on Electron, and I have encountered multiple errors.
+
+An unhandled rejection has occurred inside Forge:
+
+Error:
+ Expected plugin to either be a plugin instance or a { name, config }
+ object but found
+ ["@electron-forge/plugin-webpack",{"mainConfig":"./webpack.main.config.js",
+"renderer":{"config":"./webpack.renderer.config.js","nodeIntegration":true,
+"entryPoints":[{"html":"./src/index.html","js":"./src/renderer.ts","name"
+:"main_window"}]}}]
+
+I don't exactly know what this means but I am committed to figuring it out.
