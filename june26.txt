@@ -1,0 +1,3 @@
+Today I continued working on getting the Electron app running. I started a new project and migrated the old source code over.
+So far I have managed to reduce the number of errors from over 1,200 to around 7. I first imported some needed packages and then
+began addressing breaking changes. I am confident that I will be able to get this running soon.
