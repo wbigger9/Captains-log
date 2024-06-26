@@ -1,3 +1,12 @@
 Today I continued working on getting the Electron app running. I started a new project and migrated the old source code over.
 So far I have managed to reduce the number of errors from over 1,200 to around 7. I first imported some needed packages and then
 began addressing breaking changes. I am confident that I will be able to get this running soon.
+
+The bug I'm running into now has to do with the lack of a config.json file. I'm not sure what to do because the project appears
+to be looking for it outside of my project, in the root of my projects folder (for all projects). I fixed all the errors found
+by intellisense, which is good. 
+
+Also, a new one which appeared and is very strange indicates that the port is already in use. This is strange because I closed
+the window (it displayed the terminal output).
+I still believe I will be able to figure it out. I am learning about the debugging process, and it feels good to spend some time
+away from the Flutter app.
