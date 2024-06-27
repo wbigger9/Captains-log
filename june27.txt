@@ -1,0 +1,9 @@
+I was able to get the Electron app running today. Now the problem is, when I
+run it simply shows a blank white screen. The problem appears to be that the
+main file is not mounted. At this point I'm not sure what to do. Before I was
+able to follow the error messages, but now I don't have such an easy way to 
+debug. I'm sure that with some more research and trial-and-error I will be 
+able to fix it.
+
+On an unrelated note, I also updated gcc. The senior programmer helped me do 
+that. I was hoping that would fix the app, but no dice.
