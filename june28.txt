@@ -1,0 +1,13 @@
+I feel like a genius because I finally got the Current Admin App to run. 
+After two days of dealing with compilation errors and another day and a half
+of runtime errors, I am finally able to log in and see the home screen.
+Solving the compilation errors involved getting needed dependencies and 
+creating a couple missing files (config.js and preload.ts).
+Solving the runtime error, "fs.existsSync is not a function", was more 
+frustrating. I had to visit numerous Stack Overflow and Github threads.
+Eventually I found that the solution was two lines of code.
+In the webpack.renderer.config.ts file I needed to add
+ "  target: 'electron-renderer'   // Target Electron renderer process
+and in webpack.main.config.ts I needed to add
+"  target: 'electron-main',  // Target Electron main process."
+
