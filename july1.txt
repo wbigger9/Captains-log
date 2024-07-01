@@ -1,0 +1,2 @@
+Today I spent a few hours trying to get svg images to display in the Electron
+app. I however ended up simply converting them to png files and they appear.
