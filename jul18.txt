@@ -1,0 +1,2 @@
+Today I tried to get an executable file create for the Current Admin app. I have been having trouble, with the entry point not being found.
+It is strange that the development build runs but the executable does not.
