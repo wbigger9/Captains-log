@@ -2,3 +2,4 @@ Getting this Electron project to create an executable has been a disaster. The c
 is 'TypeError: Cannot read properties of undefined (reading 'on').' The internet has not been too helpful. 
 There is also a persistent error with the date and time pickers.
 
+We finally made some progress and now I get to work on a fun Python project.
