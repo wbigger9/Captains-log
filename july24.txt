@@ -1,0 +1,4 @@
+Getting this Electron project to create an executable has been a disaster. The current error I'm facing
+is 'TypeError: Cannot read properties of undefined (reading 'on').' The internet has not been too helpful. 
+There is also a persistent error with the date and time pickers.
+
