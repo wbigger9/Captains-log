@@ -1,0 +1,4 @@
+Today I'm working on something to read log files. It should look for
+all useful statistics including successes, errors, no-responses and 
+mismatched URLs. I got a prototype working in a burner project and now
+the trouble is getting the same functionality to work in the real project.
